@@ -96,7 +96,7 @@ h2 {
   border-left: 7px solid;
   border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
-  height: 375px;
+  height: 385px;
 }
 
 footer p {
@@ -111,6 +111,6 @@ footer a:hover {
 }
 @media screen and (min-width: 860px) {
   .single-experience {
-    height: 375px;
+    height: 385px;
   }
 }
