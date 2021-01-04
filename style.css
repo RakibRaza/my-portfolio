@@ -74,11 +74,15 @@ h2 {
   background: url("./images/dream-bg.png") no-repeat right;
 }
 
+.experience {
+  background: url("./images//exp-bg.png") no-repeat left;
+}
 .single-experience {
   box-shadow: 10px 10px 40px gray;
-  padding: 1rem;
   margin: 2rem 2%;
+  padding-left: 10px;
   height: 400px;
+  background: #fff;
 }
 
 #full-stack {
@@ -94,4 +98,11 @@ h2 {
 
 footer p {
   text-align: center;
+}
+footer a {
+  color: orange;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #696969;
 }
